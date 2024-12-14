@@ -1,7 +1,4 @@
 # neural-network-predict-stock-market
-以下是一个适合放在 GitHub 项目的简介描述，你可以将其放在 `README.md` 文件中：
-
----
 
 # **Stock Price Prediction Using Machine Learning and Deep Learning**
 
